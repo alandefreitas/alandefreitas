@@ -6,7 +6,6 @@ Welcome to my profile.
 
 - 🦎 I specialise in [evolutionary computation](https://en.wikipedia.org/wiki/Evolutionary_computation) and [computational intelligence](https://en.wikipedia.org/wiki/Computational_intelligence) in general.
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 Feel free to fork projects, raise issues and submit PRs.
 
+![Jokes Card](https://readme-jokes.vercel.app/api)

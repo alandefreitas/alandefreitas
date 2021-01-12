@@ -2,7 +2,7 @@
 
 Welcome to my profile. 
 
-- 🔭 I’m currently working on [matplotplusplus](https://github.com/alandefreitas/matplotplusplus) and [pareto-front](https://github.com/alandefreitas/pareto-front).
+- 🔭 I’m currently working on [matplotplusplus](https://github.com/alandefreitas/matplotplusplus) and [pareto](https://github.com/alandefreitas/pareto).
 
 - 🦎 I specialize in [evolutionary computation](https://en.wikipedia.org/wiki/Evolutionary_computation) and [computational intelligence](https://en.wikipedia.org/wiki/Computational_intelligence) in general.
 

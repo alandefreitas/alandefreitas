@@ -1,0 +1,31 @@
+<div class="row g-5 mb-5">
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Repositories</h3>
+
+    <table class="table">
+      {% for item in site.data.repositories.index %}
+        {% if page.title != "Home" %}
+          <tr>
+            <td>
+        {% endif %}
+          {% if page.title == "Home" and item.name != site.data.repositories.index.first.name %}, {% endif %}
+          <i class="fas fa-code"></i>
+          <a href="{{ item.url }}" target="_blank">
+             {{ item.name }}
+          </a>
+        {% if page.title != "Home" or item.featured %}
+            </td>
+            {% if page.title == "Repositories" %}
+              {% assign v = "0%" %}
+            {% else %}
+              {% assign v = "100%" %}
+            {% endif %}
+            <td><img src="https://badgen.net/github/stars/{{ item.github }}" alt="{{ item.name }}" style="max-width: 100%; filter: grayscale({{ v }});"></td>
+            <td><img src="https://img.shields.io/github/contributors/{{ item.github }}" alt="{{ item.name }}" style="max-width: 100%; filter: grayscale({{ v }});"></td>
+            <td><img src="https://img.shields.io/github/last-commit/{{ item.github }}" alt="{{ item.name }}" style="max-width: 100%; filter: grayscale(100%);"></td>
+          </tr>
+        {% endif %}
+      {% endfor %}
+    </table>
+  </div>
+</div>

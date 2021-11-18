@@ -1,0 +1,179 @@
+---
+layout: default
+---
+
+<div class="row g-5 mb-5">
+  <div>
+
+    <div id="toc"></div>
+
+    <br/>
+
+    <h3 class="fw-bold border-bottom pb-3 mb-5">CV</h3>
+
+    {{ content }}
+
+    <div id="content">
+      <div class="row g-5 mb-5">
+        <div class="col-md-2">
+          <h4>Personal Details</h4>
+        </div>
+        <div class="col-md-10">
+          {% for section in site.data.cv.personal %}
+            <p><i class="{{ section.icon }}"></i> <span class="fw-bold">{{ section.title }}</span>: {{ section.description }}</p>
+            <br/>
+          {% endfor %}
+        </div>
+      </div>
+
+      <div class="row g-5 mb-5">
+        <div class="col-md-2">
+          <h4>Short Bio</h4>
+        </div>
+        <div class="col-md-10">
+          {% for section in site.data.cv.shortbio %}
+            <p>
+              <i class="{{ section.icon }}"></i> <span class="fw-bold">{{ section.title }}</span>:
+              {% if section.description.first %}
+                <ul>
+                  {% for sentence in section.description %}
+                    <li>{{ sentence }}</li>
+                  {% endfor %}
+                </ul>
+              {% else %}
+                  {{ section.description }}
+              {% endif %}
+            </p>
+            <br/>
+          {% endfor %}
+        </div>
+      </div>
+
+      <div class="row g-5 mb-5">
+        <div class="col-md-2">
+          <h4>Education</h4>
+        </div>
+        <div class="col-md-10">
+          {% for section in site.data.cv.education %}
+            <p><i class="fas fa-university"></i> <span class="fw-bold">{{ section.title }}</span> (<i>{{ section.year }}</i>)</p>
+            <p><i class="fas fa-book"></i> <i>{{ section.dissertation }}</i></p>
+            <p><i class="fas fa-map-marker-alt"></i> {{ section.location }}</p>
+            <p><i class="fas fa-school"></i> {{ section.course }} / {{ section.field }}</p>
+            <br/>
+          {% endfor %}
+        </div>
+      </div>
+
+      <div class="row g-5 mb-5">
+        <div class="col-md-2">
+          <h4>Experience</h4>
+        </div>
+        <div class="col-md-10">
+          {% for section in site.data.cv.professional %}
+            <p class="fw-bold"><i class="fas fa-briefcase"></i> {{ section.title }}</p>
+            <p><i class="fas fa-map-marker-alt"></i> {{ section.description }}</p>
+            {% if section.details %}<p><i class="fas fa-asterisk"></i> {{ section.details }}</p>{% endif %}
+            <br/>
+          {% endfor %}
+        </div>
+      </div>
+
+      <h3 class="fw-bold border-bottom pb-3 mb-5">Languages</h3>
+
+      <div class="row g-5 mb-5">
+        <div class="col-md-12">
+          {% for language in site.data.cv.languages %}
+          <p class="fw-bold">
+            <span style="filter: grayscale(100%);">{{ language.flag }}</span>
+            {{ language.name }}
+          </p>
+          <p><b>{{ language.description }}</b>: {{ language.explanation }}</p>
+          <p><i>{{ language.details }}</i></p>
+          <br/>
+          {% endfor %}
+        </div>
+      </div>
+
+      {% include repositories.html %}
+
+      <h3 class="fw-bold border-bottom pb-3 mb-5">Academic</h3>
+
+      <div class="row g-5 mb-5">
+        <div class="col-md-2">
+          <h4>Publications</h4>
+        </div>
+        <div class="col-md-10">
+          {% include publications.html %}
+        </div>
+      </div>
+
+      <div class="row g-5 mb-5">
+        <div class="col-md-2">
+          <h4>Reviewer</h4>
+        </div>
+        <div class="col-md-10">
+          {% for item in site.data.cv.reviewer %}
+            <p>
+              <i class="fas fa-book-reader"></i>
+              {{ item.journal }}
+            </p>
+          {% endfor %}
+        </div>
+      </div>
+
+      <div class="row g-5 mb-5">
+        <div class="col-md-2">
+          <h4>Grants and Awards</h4>
+        </div>
+        <div class="col-md-10">
+          {% for section in site.data.cv.awards %}
+          <p class="fw-bold"><i class="fas fa-award"></i> {{ section.name }}</p>
+          <p><i>{{ section.description }}</i></p>
+          {% endfor %}
+          {% for section in site.data.cv.grants %}
+          <p class="fw-bold"><i class="fas fa-award"></i> {% if section.title_en %} {{ section.title_en }} {% else %} {{ section.title }} {% endif %}</p>
+          <p><i>{{ section.description }}</i></p>
+          {% endfor %}
+        </div>
+      </div>
+
+      <div class="row g-5 mb-5">
+        <div class="col-md-2">
+          <h4>Academic Advisory</h4>
+        </div>
+        <div class="col-md-10">
+          {% for student in site.data.cv.advisory %}
+          <p>
+            <i class="fas fa-user-graduate"></i>
+            <b>{{ student.title }}</b>: {{ student.name }} <i>({{ student.date }})</i>
+          </p>
+          {% endfor %}
+        </div>
+      </div>
+
+    </div>
+
+    <script>
+      window.addEventListener('DOMContentLoaded', function (event) {
+        let contentContainer = document.getElementById('content');
+        let headings = contentContainer.querySelectorAll('h1,h2,h3,h4,h5,h6');
+        let tocContainer = document.getElementById('toc');
+        // Loop through the headings NodeList
+        for (let i = 0; i < headings.length; i++) {
+            let id = headings[i].innerHTML.toLowerCase().replace(/ /g, "-");
+            headings[i].setAttribute("id", id)
+            let a = document.createElement('a');
+            a.setAttribute("href", "#" + id)
+            a.innerHTML = headings[i].innerHTML;
+            tocContainer.appendChild(a);
+            if (i != headings.length - 1) {
+              let div = document.createElement('span');
+              div.innerHTML = ' / '
+              tocContainer.appendChild(div);
+            }
+        }
+      });
+    </script>
+
+  </div>
+</div>

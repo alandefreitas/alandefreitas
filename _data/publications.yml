@@ -1,0 +1,452 @@
+# http://lattes.cnpq.br/8363796105361376
+# Continue from conference paper number 9: A symbolic evolutionary algorithm soft...
+
+index:
+- {
+      authors: 'SANCHES NERE DOS SANTOS, CARLA ; ROBERT RESENDE DE FREITAS, ALAN',
+      name: 'Mono-objective Evolutionary Model for Affective Algorithmic Composition.',
+      venue: 'Inteligencia Artificial',
+      year: 2022,
+      url: 'http://dx.doi.org/10.4114/intartif.vol25iss69pp139-158',
+      category: 'Journal'
+  }
+- {
+      authors: 'LOPES, R. A. ; FREITAS, A. ; PEDROSA-SILVA, R. C.',
+      name: 'Local Search with Groups of Step Sizes.',
+      venue: 'Operations Research Letters',
+      year: 2021,
+      url: 'http://dx.doi.org/10.1016/j.orl.2021.03.009',
+      category: 'Journal'
+  }
+- {
+      authors: 'Freitas, Alan',
+      name: 'Efficient user-oriented Pareto fronts and Pareto archives based on spatial data structures.',
+      venue: 'Swarm and Evolutionary Computation.',
+      year: 2021,
+      url: 'https://linkinghub.elsevier.com/retrieve/pii/S2210650221000766',
+      category: 'Journal',
+      featured: true
+  }
+- {
+      authors: 'LOPES, HENRIQUE ; Freitas, Alan',
+      name: 'Probabilistic (k,l)-Context-Sensitive Grammar Inference with Gibbs Sampling Applied to Chord Sequences.',
+      venue: '13th International Conference on Agents and Artificial Intelligence.',
+      year: 2021,
+      url: 'http://dx.doi.org/10.5220/0010195905720579',
+      category: 'Conference'
+  }
+- {
+      authors: 'LOPES, RODOLFO A. ; SILVA, RODRIGO C. P. ; DE FREITAS, ALAN R. R.',
+      name: 'An abstract interface for large-scale continuous optimization decomposition methods.',
+      venue: 'Genetic and Evolutionary Computation Conference.',
+      year: 2021,
+      url: 'http://dx.doi.org/10.1145/3449726.3463188',
+      category: 'Conference'
+  }
+- {
+      authors: 'HONORATO, N. S. ; DELABRIDA, S. E. ; OLIVEIRA, W. ; Freitas, A. R. R.',
+      name: 'Herde: Um Jogo para o Ensino a Promoção de Consciência Ambiental.',
+      name_en: 'Herde: A Game for the Teaching the Promotion of Environmental Consciousness.',
+      venue: 'Congresso Brasileiro de Informática na Educação (CBIE)',
+      venue_en: 'Brazilian Congress on Computing in Education',
+      year: 2021,
+      category: 'Conference'
+  }
+- {
+      authors: 'LIMA, W. G. ; R. Freitas, Alan ; LIMA, T. F. M.',
+      name: 'Design e desenvolvimento de um jogo sério para educação musical.',
+      name_en: 'Design and development of a serious game for musical education.',
+      venue: 'Simpósio Brasileiro de Jogos de Computador e Entretenimento Digital (SBGames)',
+      venue_en: 'Brazilian Symposium on Computer Games and Digital Entertainment',
+      year: 2021,
+      category: 'Conference'
+  }
+- {
+      authors: 'HONORATO, N. S. ; SANTOS, A. J. ; DELABRIDA, S. E. ; R. Freitas, Alan ; OLIVEIRA, W.',
+      name: 'Strong: Desenvolvimento e Avaliação de um Jogo para Auxiliar no Tratamento do Espectro do Autismo.',
+      name_en: 'Strong: Development and Evaluation of a Game to Auxiliary in the Treatments in the Autism Spectrum.',
+      venue: 'Simpósio Brasileiro de Jogos de Computador e Entretenimento Digital (SBGames)',
+      venue_en: 'Brazilian Symposium on Computer Games and Digital Entertainment',
+      year: 2021,
+      category: 'Conference'
+  }
+- {
+      authors: 'SANTOS, G. S. ; FREITAS, A.',
+      name: 'Modelo Preditivo para o Problema da Dieta. ',
+      name_en: 'A Predictive Model for the Diet Problem',
+      venue: 'Congresso Brazileiro de Inteligência Computacional (CBIC)',
+      venue_en: 'Brazilian Congress on Computational Intelligence (CBIC)',
+      year: 2021,
+      category: 'Conference'
+  }
+- {
+      authors: 'SANTOS, G. S. ; FREITAS, A.',
+      name: 'Modelo Interativo para o Problema da Dieta.',
+      name_en: 'An Interactive Model for the Diet Problem',
+      venue: 'Simpósio Brasileiro de Automação Inteligente (SBAI)',
+      venue_en: 'Brazilian Symposium on Intelligent Automation',
+      year: 2021,
+      category: 'Conference'
+  }
+- {
+      authors: 'GOMES, THIAGO MACEDO ; DE FREITAS, ALAN ROBERT RESENDE ; LOPES, RODOLFO AYALA',
+      name: 'Multi-heap constraint handling in gray box evolutionary algorithms.',
+      venue: 'Genetic and Evolutionary Computation Conference',
+      year: 2019,
+      url: 'http://dx.doi.org/10.1145/3321707.3321872',
+      category: 'Conference',
+      featured: true
+  }
+- {
+      authors: 'LOPES, RODOLFO AYALA ; GOMES, THIAGO MACEDO ; DE FREITAS, ALAN ROBERT RESENDE',
+      name: 'A symbolic evolutionary algorithm software platform.',
+      venue: 'Genetic and Evolutionary Computation Conference.',
+      year: 2019,
+      url: 'http://dx.doi.org/10.1145/3319619.3326828',
+      category: 'Conference'
+  }
+- {
+      authors: 'FORTES, REINALDO SILVA ; LACERDA, ANISIO ; Freitas, Alan ; BRUCKNER, CARLOS ; COELHO, DAYANNE ; GONÇALVES, MARCOS',
+      name: 'User-Oriented Objective Prioritization for Meta-Featured Multi-Objective Recommender Systems.',
+      venue: 'Conference on User Modeling, Adaptation and Personalization - UMAP',
+      year: 2018,
+      url: 'http://dx.doi.org/10.1145/3213586.3225243',
+      category: 'Conference'
+  }
+- {
+      authors: 'LOPES, RODOLFO A. ; DE FREITAS, ALAN R. R.',
+      name: 'Island-cellular model differential evolution for large-scale global optimization.',
+      venue: 'Genetic and Evolutionary Computation Conference',
+      year: 2017,
+      url: 'http://dx.doi.org/10.1145/3067695.3084208',
+      category: 'Conference'
+  }
+- {
+      authors: 'ANDRÉ GONÇALVES, MARCOS ; SILVA FORTES, REINALDO ; R. R. DE FREITAS, ALAN',
+      name: 'A Multicriteria Evaluation of Hybrid Recommender Systems: On the Usefulness of Input Data Characteristics.',
+      venue: 'International Conference on Enterprise Information Systems.',
+      year: 2017,
+      url: 'http://dx.doi.org/10.5220/0006315406230633',
+      category: 'Conference'
+  }
+- {
+      authors: 'LOPES, R. A. ; FREITAS, ALAN R.R.',
+      name: 'Um Modelo Híbrido de Distribuição Populacional para o Algoritmo de Evolução Diferencial.',
+      name_en: 'A Hybrid Model of Population Distribution for the Differential Evolution Algorithm.',
+      venue: 'Simpósio Brasileiro de Pesquisa Operacional (SBPO)',
+      venue_en: 'Brazilian Symposium on Operations Research',
+      year: 2017,
+      category: 'Conference'
+  }
+- {
+      authors: 'SILVA, RODRIGO ; SALIMI, ARMIN ; LI, MIN ; Freitas, Alan ; GUIMARAES, FREDERICO ; LOWTHER, DAVID',
+      name: 'Visualization and Analysis of Trade-offs in Many-Objective Optimization: A Case Study on the Interior Permanent Magnet Motor Design. ',
+      venue: 'IEEE Transactions on Magnetics',
+      year: 2016,
+      url: 'http://dx.doi.org/10.1109/tmag.2015.2487979',
+      category: 'Journal',
+      featured: true
+  }
+- {
+      authors: 'PEDROSA-SILVA, R. C. ; SALIMI, A. ; LI, M. ; FREITAS, ALAN R.R. ; GUIMARÃES, F. G. ; LOWTHER, D. A.',
+      name: 'Visualization and Analysis of Trade-offs in Many-Objective Optimization: A Case Study on the Interior Permanent Magnet Motor Design. ',
+      venue: 'Compumag',
+      year: 2015,
+      category: 'Conference'
+  }
+- {
+      authors: 'ALCANTARA, T. ; FREITAS, ALAN R.R. ; GUIMARÃES, F. G.',
+      name: 'A New Perspective on Channel Allocation in WLAN: Considering the Total Marginal Utility of the Connections for the Users.',
+      venue: 'Genetic and Evolutionary Computation Conference.',
+      year: 2015,
+      category: 'Conference'
+  }
+- {
+      authors: 'ALMEIDA, P. H. ; FREITAS, ALAN R.R.',
+      name: 'Escalonamento Funções Objetivo Considerando Diversidade Fenotípica em Algoritmos Populacionais.',
+      name_en: 'Scaling Objective Functions Considering the Phenotypical Diversity in Population Algorithms.',
+      venue: 'Simpósio Brasileiro de Pesquisa Operacional.',
+      venue_en: 'Brazilian Symposium on Operations Research.',
+      year: 2015,
+      category: 'Conference'
+  }
+- {
+      authors: 'ALCANTARA, T. ; FREITAS, ALAN R.R. ; GUIMARÃES, F. G.',
+      name: 'Alocação de Canais com Utilidade Máxima para Usuários em Redes Locais Sem Fio.',
+      name_en: 'Channel Allocation with Maximum User Utility in Local Wireless Networks.',
+      venue: 'Simpósio Brasileiro de Pesquisa Operacional.',
+      venue_en: 'Brazilian Symposium on Operations Research.',
+      year: 2015,
+      category: 'Conference'
+  }
+- {
+      authors: 'COELHO, VITOR N. ; COELHO, IGOR M. ; COELHO, BRUNO N. ; DE OLIVEIRA, GLAUBER C. ; BARBOSA, ALEXANDRE C. ; PEREIRA, LEO ; DE FREITAS, ALAN ; SANTOS, HAROLDO G. ; OCHI, LUIS S. ; GUIMARÃES, FREDERICO G.',
+      name: 'A communitarian microgrid storage planning system inside the scope of a smart city. ',
+      venue: 'Applied Energy.',
+      year: 2016,
+      url: 'http://dx.doi.org/10.1016/j.apenergy.2016.12.043',
+      category: 'Journal'
+  }
+- {
+      authors: 'MATSUEDA, L. C. O. ; FREITAS, ALAN R.R. ; GUIMARÃES, F. G.',
+      name: 'Árvores de Agregação Média para Análise e Otimização do Problema de Roteamento de Veículos com Muitos Objetivos e Janelas de Tempo Flexíveis.',
+      name_en: 'Average Aggregation Trees for the Analysis and Optimization of the Many-Objective Vehicle Routing Problem with Flexible Time Windows',
+      venue: 'Simpósio Brasileiro de Pesquisa Operacional.',
+      venue_en: 'Brazilian Symposium on Operations Research.',
+      year: 2016,
+      category: 'Conference'
+  }
+- {
+      authors: 'LOPES, R. A. ; FREITAS, ALAN R.R.',
+      name: 'Uma Análise do Trade-off de Desempenho das Diferentes Configurações do Modelo em Ilhas Usando Evolução Diferencial.',
+      name_en: 'An Analysis of the Performance Trade-off in Island Model Configurations in Differential Evolution.',
+      venue: 'Simpósio Brasileiro de Pesquisa Operacional.',
+      venue_en: 'Brazilian Symposium on Operations Research.',
+      year: 2016,
+      category: 'Conference'
+  }
+- {
+      authors: 'FREITAS, A. R. R.',
+      name: 'Visualization and Dimension Reduction in Many-Objective Optimization. ',
+      venue: 'Workshop on Applied Combinatorial Optimization Methods',
+      year: 2016,
+      category: 'Expanded Abstract'
+  }
+- {
+      authors: 'LOPES, R. A. ; FREITAS, ALAN R.R.',
+      name: 'A Brief Overview of Migratory Flows in Island Model for Evolutionary Algorithms. ',
+      venue: 'Workshop on Applied Combinatorial Optimization Methods',
+      year: 2016,
+      category: 'Expanded Abstract'
+  }
+- {
+      authors: 'FREITAS, A. R. R.; SILVA, V. M. R. ; CAMPELO, F. ; GUIMARÃES, F. G.',
+      name: 'Optimizing two-level reverse distribution networks with hybrid memetic algorithms.',
+      venue: 'Optimization Letters',
+      year: 2014,
+      url: 'http://dx.doi.org/10.1007/s11590-013-0615-8',
+      category: 'Journal'
+  }
+- {
+      authors: 'FREITAS, A.; FLEMING, P. J. ; GUIMARÃES, F. G.',
+      name: 'Aggregation Trees for Visualization and Dimension Reduction in Many-Objective Optimization. ',
+      venue: 'Information Sciences',
+      year: 2014,
+      url: 'http://dx.doi.org/10.1016/j.ins.2014.11.044',
+      category: 'Journal',
+      featured: true
+  }
+- {
+      authors: 'Salomon, Shaul ; Domínguez-Medina, Christian ; Avigad, Gideon ; Freitas, Alan ; Goldvard, Alex ; Schütze, Oliver ; Trautmann, Heike',
+      name: 'PSA Based Multi Objective Evolutionary Algorithms.',
+      venue: 'Studies in Computational Intelligence.',
+      year: 2014,
+      url: 'http://dx.doi.org/10.1007/978-3-319-01460-9_11',
+      category: 'Book Chapter'
+  }
+- {
+      authors: 'LOPES, RODOLFO AYALA ; PEDROSA SILVA, RODRIGO C. ; FREITAS, ALAN R.R. ; CAMPELO, FELIPE ; GUIMARÃES, FREDERICO G.',
+      name: 'A study on the configuration of migratory flows in island model differential evolution. ',
+      venue: 'Genetic and Evolutionary Computation Conference',
+      year: 2014,
+      url: 'http://dx.doi.org/10.1145/2598394.2605439',
+      category: 'Conference'
+  }
+- {
+      authors: 'FREITAS, ALAN R.R.; SILVA, RODRIGO C.P. ; GUIMARÃES, FREDERICO G.',
+      name: 'On the visualization of trade-offs and reducibility in many-objective optimization.',
+      venue: 'Genetic and Evolutionary Computation Conference.',
+      year: 2014,
+      url: 'http://dx.doi.org/10.1145/2598394.2610550',
+      category: 'Conference'
+  }
+- {
+      authors: 'MATSUEDA, L. C. O. ; GUIMARAES, FREDERICO G. ; FREITAS, ALAN R.R.',
+      name: 'Seleção de Objetivos no Problema de Roteamento de Veículos com Janelas de Tempo.',
+      name_en: 'Objective Selection in the Vehicle Routing Problem with Flexible Time Windows.',
+      venue: 'Simpósio Brasileiro de Pesquisa Operacional.',
+      venue_en: 'Brazilian Symposium on Operations Research.',
+      year: 2014,
+      category: 'Conference'
+  }
+- {
+      authors: 'P. SILVA, RODRIGO ; LOPES, RODOLFO ; R. Freitas, Alan ; GUIMARAES, FREDERICO',
+      name: 'A study on self-configuration in the differential evolution algorithm. ',
+      venue: 'IEEE Symposium on Differential Evolution (SDE).',
+      year: 2014,
+      url: 'http://dx.doi.org/10.1109/sde.2014.7031531',
+      category: 'Conference'
+  }
+- {
+      authors: 'FREITAS, ALAN ROBERT RESENDE; Guimarães, Frederico Gadelha ; PEDROSA SILVA, RODRIGO CÉSAR ; SOUZA, MARCONE JAMILSON FREITAS',
+      name: 'Memetic self-adaptive evolution strategies applied to the maximum diversity problem. ',
+      venue: 'Optimization Letters.',
+      year: 2013,
+      url: 'http://dx.doi.org/10.1007/s11590-013-0610-0',
+      category: 'Journal'
+  }
+- {
+      authors: 'Freitas, A. R. R.; Pedrosa Silva, R. C. ; GUIMARÃES, F. G. .',
+      name: 'Differential Evolution and Perceptron Decision Trees for Fault Detection in Power Transformers. ',
+      venue: 'Advances in Intelligent Systems and Computing. ',
+      year: 2013,
+      url: 'http://dx.doi.org/10.1007/978-3-642-32922-7_15',
+      category: 'Book Chapter'
+  }
+- {
+      authors: 'Freitas, A. R. R.; SILVA, V. M. R. ; GUIMARÃES, F. G. ; CAMPELO, F.',
+      name: 'Genetic Algorithms Applied to Reverse Distribution Networks. ',
+      venue: 'Advances in Intelligent Systems and Computing',
+      year: 2013,
+      url: 'http://dx.doi.org/10.1007/978-3-642-32922-7_33',
+      category: 'Book Chapter'
+  }
+- {
+      authors: 'FREITAS, ALAN R.R.; FLEMING, PETER J. ; GUIMARAES, FREDERICO G.',
+      name: 'A Non-parametric Harmony-Based Objective Reduction Method for Many-Objective Optimization. ',
+      venue: 'IEEE International Conference on Systems, Man and Cybernetics (SMC)',
+      year: 2013,
+      url: 'http://dx.doi.org/10.1109/SMC.2013.116',
+      category: 'Conference'
+  }
+- {
+      authors: 'Freitas, A. R. R.; GUIMARÃES, F. G. ; BARBOSA, R. V.',
+      name: 'Automatic Evaluation Methods in Evolutionary Music: An Example with Bossa Melodies. ',
+      venue: 'Lecture Notes in Computer Science / International Conference on Parallel Problem Solving from Nature.',
+      year: 2012,
+      url: 'http://dx.doi.org/10.1007/978-3-642-32964-7_46',
+      category: 'Book Chapter'
+  }
+- {
+      authors: 'LOPES, R. A. ; Freitas, A. R. R. ; Silva, R. C. Pedrosa ; Guimarães, Frederico Gadelha',
+      name: 'Differential Evolution and Perceptron Decision Trees for Classification Tasks. ',
+      venue: 'Lecture Notes in Computer Science / International Conference on Intelligent Data Engineering and Automated Learning (IDEAL)',
+      year: 2012,
+      url: 'http://dx.doi.org/10.1007/978-3-642-32639-4_67',
+      category: 'Book Chapter'
+  }
+- {
+      authors: 'FREITAS, A. R. R.; GUIMARÃES, F. G. ; BARBOSA, R. V.',
+      name: 'Ideas in Automatic Evaluation Methods for Melodies in Algorithmic Composition.',
+      venue: 'Sound and Music Computing Conference',
+      year: 2012,
+      category: 'Conference'
+  }
+- {
+      authors: 'PEDROSA-SILVA, R. C. ; LOPES, R. A. ; FREITAS, A. R. R. ; GUIMARÃES, F. G.',
+      name: 'Performance Comparison of Parameter Variation Operators in Self-Adaptive Differential Evolution Algorithms.',
+      venue: 'Simpósio Brasileiro de Redes Neurais.',
+      venue_en: 'Brazilian Symposium on Neural Networks.',
+      year: 2012,
+      category: 'Conference'
+  }
+- {
+      authors: 'SILVA, V. M. R. ; FREITAS, A. R. R. ; CAMPELO, F. ; GUIMARÃES, F. G.',
+      name: 'Logística Reversa Capacitada em Dois Níveis - Uma Abordagem Utilizando Algoritmos Genéticos. ',
+      venue: 'Simpósio Brasileiro de Pesquisa Operacional (SBPO)',
+      venue_en: 'Brazilian Symposium on Operations Research',
+      year: 2012,
+      category: 'Conference'
+  }
+- {
+      authors: 'OLIVEIRA, M. V. ; FREITAS, A. R. R. ; GUIMARÃES, F. G.',
+      name: 'Uma estratégia de Ranking baseada em diversidade em Algoritmos Genéticos.',
+      name_en: 'A Ranking Strategy based on Diversity in Genetic Algorithms.',
+      venue: 'Simpósio Brasileiro de Pesquisa Operacional (SBPO)',
+      venue_en: 'Brazilian Symposium on Operations Research',
+      year: 2012,
+      category: 'Conference'
+  }
+- {
+      authors: 'EITELBERG, E. ; FREITAS, A. R. R.',
+      name: 'Pareto Optimal Sensitivity Bounds for a Strongly Interacting 2-Loop Brazing Temperature Control System. ',
+      venue: 'The ORT Braude College 8th Interdisciplinary Research Conference.',
+      year: 2012,
+      category: 'Conference'
+  }
+- {
+      authors: 'FREITAS, A. R. R.; LOPES, R. A. ; PEDROSA-SILVA, R. C. ; GUIMARÃES, F. G.',
+      name: 'Classificação de Dados Através de Árvores de Perceptrons Geradas por Evolução Diferencial.',
+      name_en: 'Data Classification via Perceptron Trees Generated with Differential Evolution.',
+      venue: 'Encontro Nacional de Inteligência Artificial',
+      venue_en: 'Braziliam Symposium on Artificial Intelligence',
+      year: 2012,
+      category: 'Conference'
+  }
+- {
+      authors: 'de Freitas, Alan R.R.; Guimarães, Frederico Gadelha',
+      name: 'Originality and diversity in the artificial evolution of melodies',
+      venue: 'Genetic and Evolutionary Computation Conference',
+      year: 2011,
+      url: 'http://dx.doi.org/10.1145/2001576.2001634',
+      category: 'Conference',
+      featured: true
+  }
+- {
+      authors: 'FREITAS, A.; GUIMARÃES, F. G.',
+      name: 'Melody Harmonization in Evolutionary Music using Multiobjective Genetic Algorithms. ',
+      venue: 'Sound and Music Computing Conference',
+      year: 2011,
+      category: 'Conference'
+  }
+- {
+      authors: 'FREITAS, A. R. R.; GUIMARÃES, F. G. ; RUELA, A.',
+      name: 'Computação Evolutiva Multiobjetivo para Harmonização de Melodias.',
+      name_en: 'Multi-objective Evolutionary Computation for Melody Harmonization.',
+      venue: 'Simpósio Brasileiro de Pesquisa Operacional (SBPO)',
+      venue_en: 'Brazilian Symposium on Operations Research',
+      year: 2011,
+      category: 'Conference'
+  }
+- {
+      authors: 'RUELA, A. ; AQUINO, A. ; GUIMARÃES, F. G. ; FREITAS, A. R. R.',
+      name: 'Um Algoritmo Coevolutivo Cooperativo para Configuração de Redes de Sensores sem Fio.',
+      name_en: 'A Cooperative Co-evolutionary Algorithm for the Configuration of Wireless Sensor Networks.',
+      venue: 'Simpósio Brasileiro de Pesquisa Operacional (SBPO)',
+      venue_en: 'Brazilian Symposium on Operations Research',
+      year: 2011,
+      category: 'Conference'
+  }
+- {
+      authors: 'FREITAS, A. R. R.; GUIMARÃES, F. G.',
+      name: 'Geração de Melodias Originais Usando Algoritmos Genéticos.',
+      name_en: 'Generating Original Melodies with Genetic Algorithms.',
+      venue: 'Congresso Brasileiro de Inteligência Computacional',
+      venue_en: 'Brazilian Congress on Computational Inteligence',
+      year: 2011,
+      category: 'Conference'
+  }
+- {
+      authors: 'FREITAS, A. R. R.; GUIMARÃES, F. G.',
+      name: 'When Darwin Meets Bossa: An Evolutionary Samba.',
+      venue: 'Genetic and Evolutionary Computation Conference (GECCO)',
+      year: 2011,
+      category: 'Expanded Abstract'
+  }
+- {
+      authors: 'FREITAS, A. R. R.; SOUZA, M. J. F. ; GUIMARÃES, F. G.',
+      name: 'Comparação de Heurísticas Aplicadas ao Problema da Diversidade Máxima.',
+      name_en: 'A Comparison of Heuristics Applied to the Maximum Diversity Problem.',
+      venue: 'Encontro de Modelagem Computacional (EMC)',
+      venue_en: 'Symposium of Computational Models',
+      year: 2010,
+      category: 'Conference'
+  }
+- {
+      authors: 'BATISTA, L. S. ; FREITAS, A. R. R. ; GUIMARÃES, F. G. ; RAMIREZ, J. A.',
+      name: 'Resolvendo o Problema do Caixeiro Viajante Via GRASP com Construção Baseada em Redes Neurais Auto-Organizáveis.',
+      name_en: 'Solving the Traveling Salesman Problem via GRASP with Construction based on Self-Organizable Neural Networks.',
+      venue: 'Congresso Brasileiro de Redes Neurais e Inteligência Computacional (CBRN/IC)',
+      venue_en: 'Brazilian Conference on Neural Networks and Computational Intelligence',
+      year: 2009,
+      category: 'Conference'
+  }
+- {
+      authors: 'BATISTA, L. S. ; FREITAS, A. R. R. ; GUIMARÃES, F. G. ; RAMIREZ, J. A.',
+      name: 'GRASP e Redes Neurais Auto-Organizáveis: Uma Meta-Heurística para a Solução do TSP.',
+      name_en: 'GRASP e Self-Organizable Neural Networks: A Meta-Heuristic for the Solution of the TSP.',
+      venue: 'Escola Luso-Brasileira de Computação Evolutiva (ELBCE)',
+      venue_en: 'Luso-Brazilian School of Evolutionary Computation',
+      year: 2009,
+      category: 'Expanded Abstract'
+  }

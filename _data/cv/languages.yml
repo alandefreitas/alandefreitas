@@ -1,0 +1,33 @@
+- name: English
+  description: Fluent
+  explanation: Conversationally fluent
+  details: Lived, studied, and worked in Australia, the UK, and Canada. Currently affiliated to the C++ Alliance, located in the USA.
+  flag: 🇺🇸
+
+- name: Portuguese
+  description: Fluent
+  explanation: Conversationally fluent
+  details: More specifically, Brazilian Portuguese.
+  flag: 🇧🇷
+
+- name: Spanish
+  description: Intermediate
+  explanation: Comprehends and reads well
+  details: I have also studied Spanish and have had friends who speak Spanish since I was a child.
+  flag: 🇪🇸
+
+- name: French
+  description: Basic
+  explanation: Reads Well
+  details: I have studied French as a child and spent a long periods of time in France. I haven't been using the language so I can read well but have difficulty speaking.
+  flag: 🇫🇷
+
+- name: Japanese
+  description: Basic
+  explanation: Comprehends Reasonably, Speaks Little
+  details: I've had close friends from Japan for decades and that got me into studying the language and spending lengthy periods of time in Japan. While I still understand the grammar well, I haven't used the language at all and lost all my vocabulary.
+  flag: 🇯🇵
+
+
+
+

@@ -1,0 +1,43 @@
+<div class="row g-5 mb-5">
+  <div>
+    {% if page.title != "CV" %}
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
+    {% endif %}
+    <table class="table">
+    {% for item in site.data.publications.index %}
+        {% if page.title != "Home" or item.featured %}
+          <tr>
+            <td>
+              {% assign author_list = item.authors | split: ";" %}
+              {% for author in author_list %}
+                <i class="fas fa-user"></i>
+                {% assign author_names = author | strip | split: " " %}
+                {% for author_name in author_names %}
+                  {{ author_name | strip | capitalize }}
+                {% endfor %}
+                <br/>
+              {% endfor %}
+            </td>
+            <td>
+              <i class="fas fa-file-alt"></i>
+              {% if item.url %}<a href="{{ item.url }}" target="_blank">{% endif %}
+                {% if item.name_en %}
+                  {{ item.name_en }} <br/><i class="fas fa-language"></i> <i>{{ item.name }}</i>
+                {% else %}
+                  {{ item.name }}
+                {% endif %}
+              {% if item.url %}</a>{% endif %}
+              <br/>
+              {% if item.venue_en %}
+                <i class="fas fa-map-marker-alt"></i> <i>{{item.venue_en}}</i> (<i>{{ item.venue }}</i>)
+              {% else %}
+                <i class="fas fa-map-marker-alt"></i> <i>{{item.venue}}</i>
+              {% endif %}
+              {% if item.year %}<br/><i class="fas fa-calendar"></i> {{item.year}}{% endif %}
+            </td>
+          </tr>
+      {% endif %}
+    {% endfor %}
+    </table>
+  </div>
+</div>

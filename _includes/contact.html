@@ -1,0 +1,21 @@
+<div class="row g-5 mb-5">
+  <div>
+    {% for contact in site.data.settings.contacts %}
+    <div class="row g-5 mb-5">
+      <div class="col-md-6">
+        <h4>{{ contact.name }}</h4>
+        <p>{{ contact.title }}{% if contact.department %} | {{ contact.department }}{% endif %}</p>
+        <p>{{ contact.institution }}{% if contact.institution_address %} | {{ contact.institution_address }}{% endif %}</p>
+        {% if contact.phone %}<p>Phone: {{ contact.phone }}</p>{% endif %}
+        {% if contact.email %}<p>Email: <img src="https://i.imgbun.com/TyWhH0GS.png" width="200"/></p>{% endif %}
+        {% if contact.email %}<p>Website: https://alandefreitas.github.io/alandefreitas/ <img src="https://chart.googleapis.com/chart?cht=qr&chl=https://alandefreitas.github.io/alandefreitas/&chs=100x100"/></p>{% endif %}
+        {% if contact.office %}<p>Office: {{ contact.office }}</p>{% endif %}
+
+      </div>
+      <div class="col-md-6">
+        <img src="{% if site.github.url %}{{ site.github.url }}/{% endif %}{{ contact.image }}" alt="Contact" width="50%">
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>

@@ -1,0 +1,44 @@
+- title: 'Professional'
+  description: 'Staff Engineer at the C++ Alliance'
+  icon: fas fa-briefcase
+
+- title: 'Education'
+  description:
+    - 'Ph.D. in Electrical Engineering, on the field of Computational Intelligence, from the Federal University of Minas Gerais, University of Sheffield, and ORT Braude College of Engineering (Split Ph.D.).'
+    - 'M.S. and B.S. in Computer Science from the Federal University of Ouro Preto.'
+  icon: fas fa-graduation-cap
+
+- title: 'Recent Work'
+  description:
+    - 'Open source foundational libraries and tools for the C++ ecosystem, particularly focused on Asynchronous Networking and Scientific Computing. Our most recent library is <a href="https://github.com/boostorg/url" target="_blank">Boost.URL</a>'
+    - 'Research on data structures for Pareto fronts and Archives, whose results were published in 2021 in <i>Swarm and Evolutionary Computation</i> (Impact Factor 7.177 / <a href="https://www.scopus.com/sourceid/19900192513" target="_blank">Rank #2/378</a> in Mathematics).'
+    - 'Previously coordinating research groups focused on the development of compilers and solvers for innovative symbolic modeling languages, which can represent and solve gray-box optimization problems.'
+    - 'In 2019, our recent paper on Symbolic Gray-Box Evolutionary Algorithms received the best paper award in the track of Genetic Algorithms at the <i>Genetic and Evolutionary Computation Conference</i> (GECCO).'
+  icon: fas fa-code
+
+- title: 'Research Interests'
+  description:
+    - 'Asynchronous Networking'
+    - 'Symbolic Data Structures'
+    - 'Artificial and Computational Intelligence'
+    - 'Mathematical, Gray-Box, and Multi-objective Optimization'
+    - 'Matheuristics'
+    - 'Evolutionary Algorithms'
+    - 'Computer Music'
+    - 'Logic and Epistemology'
+  icon: fas fa-vial
+
+- title: 'Experience'
+  description:
+    - 'Previously been an associate professor for 10 years, where I taught coursed on advanced programming in C++.'
+    - 'Visiting professor at the University of Montreal and McGill University in 2014, where we developed applications for the design of Permanent Magnet Motors.'
+    - 'Previously worked at the Rolls-Royce Control & Systems University Technology Centre and a Marie Curie researcher within the Seventh Framework Program of the European Commission. At the time, we developed the method of Aggregation Trees for the design of aircraft engines.'
+  icon: far fa-bookmark
+
+- title: 'Teaching'
+  description:
+    - 'Several introductory and advanced programming courses in C++ (undergraduate and graduate programs).'
+    - 'Science Methods course (graduate program).'
+    - 'Coordinator, as an educationalist, of the project "Aluno Integrado", which has taught computer programming to more than 10 thousand students from low-income regions of Brazil.'
+  icon: fas fa-chalkboard-teacher
+

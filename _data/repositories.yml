@@ -1,0 +1,52 @@
+index:
+- {
+      name: 'Boost.URL',
+      url: 'https://github.com/boostorg/url',
+      github: 'boostorg/url'
+  }
+- {
+      name: 'Matplot++',
+      url: 'https://github.com/alandefreitas/matplotplusplus',
+      github: 'alandefreitas/matplotplusplus'
+  }
+- {
+      name: 'Small',
+      url: 'https://github.com/alandefreitas/small',
+      github: 'alandefreitas/small'
+  }
+- {
+      name: 'Futures',
+      url: 'https://github.com/alandefreitas/futures',
+      github: 'alandefreitas/futures'
+  }
+- {
+      name: 'Pareto',
+      url: 'https://github.com/alandefreitas/pareto',
+      github: 'alandefreitas/pareto'
+  }
+- {
+      name: 'Clang Unformat',
+      url: 'https://github.com/alandefreitas/clang-unformat',
+      github: 'alandefreitas/clang-unformat'
+  }
+- {
+      name: 'FetchBoostContent',
+      url: 'https://github.com/alandefreitas/FetchBoostContent',
+      github: 'alandefreitas/FetchBoostContent'
+  }
+- {
+      name: 'Socks',
+      url: 'https://github.com/alandefreitas/socks_proto',
+      github: 'alandefreitas/socks_proto'
+  }
+- {
+      name: 'BibExplorer',
+      url: 'https://github.com/alandefreitas/bibexplorer',
+      github: 'alandefreitas/bibexplorer'
+  }
+- {
+      name: 'ModernCpp',
+      url: 'https://github.com/alandefreitas/moderncpp',
+      github: 'alandefreitas/moderncpp'
+  }
+

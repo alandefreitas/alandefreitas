@@ -1,11 +1,26 @@
-# Hi there 👋
+# My Personal Homepage
 
-Welcome to my profile. 
+## Install
 
-- 🔭 I’m currently working on [matplotplusplus](https://github.com/alandefreitas/matplotplusplus), [small](https://github.com/alandefreitas/small) and [pareto](https://github.com/alandefreitas/pareto).
+- Add `gem "academic-jekyll-theme"` to `Gemfile`
+- Add `theme: academic-jekyll-theme"` to `_config.yml`
+- Run `bundle`
 
-- 🦎 I specialize in [evolutionary computation](https://en.wikipedia.org/wiki/Evolutionary_computation) and [computational intelligence](https://en.wikipedia.org/wiki/Computational_intelligence) in general.
+Or:
 
-Feel free to fork projects, raise issues and submit PRs.
+- Run `gem install academic-jekyll-theme`
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+## Run
+
+- Run `jekyll serve --config _config.yml,_config_dev.yml`
+- Open `http://localhost:4000`
+
+or
+
+- Run `bundle install`
+- Run `bundle exec jekyll serve`
+- Open `http://localhost:4000`
+
+### The template
+
+https://github.com/LeNPaul/academic

@@ -1,0 +1,12 @@
+- title: 'E-mail Address'
+  description: '<img src="https://i.imgbun.com/TyWhH0GS.png" width="200"/>'
+  icon: fas fa-envelope
+
+- title: 'Website'
+  description: 'https://alandefreitas.github.io/alandefreitas/'
+  icon: fas fa-globe-americas
+
+- title: 'Github'
+  description: 'https://github.com/alandefreitas'
+  icon: fab fa-github
+

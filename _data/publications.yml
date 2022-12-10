@@ -5,6 +5,7 @@ index:
 - {
       authors: 'SANCHES NERE DOS SANTOS, CARLA ; ROBERT RESENDE DE FREITAS, ALAN',
       name: 'Um Modelo Evolutivo Multiobjetivo para Composição Algorítmica Afetiva.',
+      name_en: 'A Multiobjective Evolutionary Model for Affective Algorithmic Composition..',
       venue: 'Simpósio Brasileiro de Pesquisa Operacional (SBPO)',
       venue_en: 'Brazilian Symposium on Operations Research',
       year: 2022,

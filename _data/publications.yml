@@ -69,6 +69,7 @@ index:
       venue: 'Simpósio Brasileiro de Jogos de Computador e Entretenimento Digital (SBGames)',
       venue_en: 'Brazilian Symposium on Computer Games and Digital Entertainment',
       year: 2021,
+      url: 'https://sol.sbc.org.br/index.php/sbgames_estendido/article/view/19674',
       category: 'Conference'
   }
 - {
@@ -78,6 +79,7 @@ index:
       venue: 'Simpósio Brasileiro de Jogos de Computador e Entretenimento Digital (SBGames)',
       venue_en: 'Brazilian Symposium on Computer Games and Digital Entertainment',
       year: 2021,
+      url: 'https://sol.sbc.org.br/index.php/sbgames_estendido/article/view/19692',
       category: 'Conference'
   }
 - {
@@ -87,6 +89,7 @@ index:
       venue: 'Congresso Brazileiro de Inteligência Computacional (CBIC)',
       venue_en: 'Brazilian Congress on Computational Intelligence (CBIC)',
       year: 2021,
+      url: 'https://sbic.org.br/eventos/cbic_2021/cbic2021-47/',
       category: 'Conference'
   }
 - {
@@ -96,6 +99,7 @@ index:
       venue: 'Simpósio Brasileiro de Automação Inteligente (SBAI)',
       venue_en: 'Brazilian Symposium on Intelligent Automation',
       year: 2021,
+      url: 'https://www.sba.org.br/open_journal_systems/index.php/sbai/article/view/2595',
       category: 'Conference'
   }
 - {
@@ -146,6 +150,7 @@ index:
       venue: 'Simpósio Brasileiro de Pesquisa Operacional (SBPO)',
       venue_en: 'Brazilian Symposium on Operations Research',
       year: 2017,
+      url: 'https://scholar.google.com/citations?view_op=view_citation&hl=pt-BR&user=VpSlWfoAAAAJ&citation_for_view=VpSlWfoAAAAJ:IjCSPb-OGe4C',
       category: 'Conference'
   }
 - {
@@ -162,6 +167,7 @@ index:
       name: 'Visualization and Analysis of Trade-offs in Many-Objective Optimization: A Case Study on the Interior Permanent Magnet Motor Design. ',
       venue: 'Compumag',
       year: 2015,
+      url: 'https://ieeexplore.ieee.org/document/7293695',
       category: 'Conference'
   }
 - {
@@ -169,15 +175,17 @@ index:
       name: 'A New Perspective on Channel Allocation in WLAN: Considering the Total Marginal Utility of the Connections for the Users.',
       venue: 'Genetic and Evolutionary Computation Conference.',
       year: 2015,
+      url: 'https://dl.acm.org/doi/10.1145/2739480.2754663',
       category: 'Conference'
   }
 - {
       authors: 'ALMEIDA, P. H. ; FREITAS, ALAN R.R.',
-      name: 'Escalonamento Funções Objetivo Considerando Diversidade Fenotípica em Algoritmos Populacionais.',
+      name: 'Escalonamento de Funções Objetivo Considerando Diversidade Fenotípica em Algoritmos Populacionais.',
       name_en: 'Scaling Objective Functions Considering the Phenotypical Diversity in Population Algorithms.',
       venue: 'Simpósio Brasileiro de Pesquisa Operacional.',
       venue_en: 'Brazilian Symposium on Operations Research.',
       year: 2015,
+      url: 'http://www.din.uem.br/sbpo/sbpo2015/pdf/143038.pdf',
       category: 'Conference'
   }
 - {
@@ -187,6 +195,7 @@ index:
       venue: 'Simpósio Brasileiro de Pesquisa Operacional.',
       venue_en: 'Brazilian Symposium on Operations Research.',
       year: 2015,
+      url: 'http://www.din.uem.br/sbpo/sbpo2015/pdf/142868.pdf',
       category: 'Conference'
   }
 - {
@@ -213,6 +222,7 @@ index:
       venue: 'Simpósio Brasileiro de Pesquisa Operacional.',
       venue_en: 'Brazilian Symposium on Operations Research.',
       year: 2016,
+      url: 'http://www.din.uem.br/sbpo/sbpo2016/pdf/156053.pdf',
       category: 'Conference'
   }
 - {
@@ -415,6 +425,7 @@ index:
       venue: 'Simpósio Brasileiro de Pesquisa Operacional (SBPO)',
       venue_en: 'Brazilian Symposium on Operations Research',
       year: 2011,
+      url: 'http://www.din.uem.br/sbpo/sbpo2011/pdf/88083.pdf',
       category: 'Conference'
   }
 - {
@@ -424,6 +435,7 @@ index:
       venue: 'Congresso Brasileiro de Inteligência Computacional',
       venue_en: 'Brazilian Congress on Computational Inteligence',
       year: 2011,
+      url: 'https://sbic.org.br/eventos/cbic_2011/st_16_3/',
       category: 'Conference'
   }
 - {
@@ -449,6 +461,7 @@ index:
       venue: 'Congresso Brasileiro de Redes Neurais e Inteligência Computacional (CBRN/IC)',
       venue_en: 'Brazilian Conference on Neural Networks and Computational Intelligence',
       year: 2009,
+      url: 'https://sbic.org.br/eventos/cbrn_2009/144_CBRN2009/',
       category: 'Conference'
   }
 - {

@@ -1,7 +1,11 @@
 <div class="row g-5 mb-5">
   <div>
+    {% if page.title != "Home" %}
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Selected Repositories</h3>    
+    {% else %}
     <h3 class="fw-bold border-bottom pb-3 mb-5">Repositories</h3>
-
+    {% endif %}
+    
     <table class="table">
       {% for item in site.data.repositories.index %}
         {% if page.title != "Home" %}

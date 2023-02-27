@@ -24,9 +24,9 @@
             {% else %}
               {% assign v = "100%" %}
             {% endif %}
-            <td><img src="https://badgen.net/github/stars/{{ item.github }}" alt="{{ item.name }}" style="max-width: 100%; filter: grayscale({{ v }});"></td>
-            <td><img src="https://img.shields.io/github/contributors/{{ item.github }}" alt="{{ item.name }}" style="max-width: 100%; filter: grayscale({{ v }});"></td>
-            <td><img src="https://img.shields.io/github/last-commit/{{ item.github }}" alt="{{ item.name }}" style="max-width: 100%; filter: grayscale(100%);"></td>
+            <td><img src="https://img.shields.io/github/stars/{{ item.github }}" alt="{{ item.name }} stars" style="max-width: 100%; filter: grayscale({{ v }});"></td>
+            <td><img src="https://img.shields.io/github/contributors/{{ item.github }}" alt="{{ item.name }} contributors" style="max-width: 100%; filter: grayscale({{ v }});"></td>
+            <td><img src="https://img.shields.io/github/last-commit/{{ item.github }}" alt="{{ item.name }} last commit" style="max-width: 100%; filter: grayscale(100%);"></td>
           </tr>
         {% endif %}
       {% endfor %}

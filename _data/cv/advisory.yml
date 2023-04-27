@@ -3,8 +3,24 @@
   date: 2018-Present
 
 - title: 'Master''s'
+  name: Eduardo C. Chagas
+  date: 2020-2023
+
+- title: 'Master''s'
+  name: Wemerson G. Lima
+  date: 2019-2023
+
+- title: 'Master''s'
   name: Carla S. N. Santos
   date: 2020-2022
+
+- title: 'Master''s'
+  name: Glauber S. Santos
+  date: 2018-2022
+
+- title: 'Ph.D.'
+  name: 'Rodolfo A. Lopes'
+  date: 2016-2021
 
 - title: 'Teaching Internship'
   name: Henrique Barros Lopes
@@ -13,22 +29,6 @@
 - title: 'Teaching Internship'
   name: Thiago M. Gomes
   date: 2017-2017
-
-- title: 'Ph.D.'
-  name: 'Rodolfo A. Lopes'
-  date: 2016-2021
-
-- title: 'Master''s'
-  name: Eduardo C. Chagas
-  date: 2020-Present
-
-- title: 'Master''s'
-  name: Wemerson G. Lima
-  date: 2019-2023
-
-- title: 'Master''s'
-  name: Glauber S. Santos
-  date: 2018-2022
 
 - title: 'Teaching Assistant'
   name: Douglas X. Souza

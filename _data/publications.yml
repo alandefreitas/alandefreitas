@@ -1,5 +1,13 @@
 index:
 - {
+      authors: 'LOPES, RODOLFO A.; ROBERT RESENDE DE FREITAS, ALAN',
+      name: 'Gray-Box Local Search with Groups of Step Sizes.',
+      venue: 'Soft Computing',
+      year: 2023,
+      url: 'https://link.springer.com/article/10.1007/s00500-023-09129-1',
+      category: 'Journal',
+  }
+- {
       authors: 'de Carvalho Chagas, Eduardo; ROBERT RESENDE DE FREITAS, ALAN',
       name: 'Modelo de Otimização de Portfólios Restrito Usando MAD: Um Estudo Do Impacto das Restrições de Cardinalidade e de Fronteira.',
       name_en: 'A Constrained Portfolio Optimization Model using MAD: A Study on the Impact of Cardinality and Frontier Constraints.',
@@ -7,7 +15,7 @@ index:
       venue_en: 'Brazilian Symposium on Operations Research',
       year: 2022,
       url: 'https://proceedings.science/sbpo/sbpo-2022/trabalhos/modelo-de-otimizacao-de-portfolios-restrito-usando-mad-um-estudo-do-impacto-das',
-      category: 'Conference',
+      category: 'Conference'
   }
 - {
       authors: 'SANCHES NERE DOS SANTOS, CARLA ; ROBERT RESENDE DE FREITAS, ALAN',
@@ -17,7 +25,7 @@ index:
       venue_en: 'Brazilian Symposium on Operations Research',
       year: 2022,
       url: 'https://proceedings.science/sbpo/sbpo-2022/trabalhos/um-modelo-evolutivo-multiobjetivo-para-composicao-algoritmica-afetiva',
-      category: 'Conference',
+      category: 'Conference'
   }
 - {
       authors: 'SANCHES NERE DOS SANTOS, CARLA ; ROBERT RESENDE DE FREITAS, ALAN',

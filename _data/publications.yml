@@ -1,5 +1,13 @@
 index:
 - {
+      authors: 'Alan de Freitas; Daniel Liam Anderson; Giuseppe DAngelo; Hans Goudey; Hartmut Kaiser; Isidoros Tsaousis; Jacques Lucke; Krystian Stasiowski; Shreyas Atre; Stéphane Janel; Thiago Maciera',
+      name: 'P3236R0: Please reject P2786 and adopt P1144.',
+      venue: 'Open Standards',
+      year: 2024,
+      url: 'https://open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3236r0.html',
+      category: 'Journal',
+  }
+- {
       authors: 'LOPES, RODOLFO A.; ROBERT RESENDE DE FREITAS, ALAN',
       name: 'Gray-Box Local Search with Groups of Step Sizes.',
       venue: 'Soft Computing',

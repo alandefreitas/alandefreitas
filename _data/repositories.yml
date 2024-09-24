@@ -5,6 +5,36 @@ index:
       github: 'boostorg/url'
   }
 - {
+      name: 'MrDocs',
+      url: 'https://github.com/cppalliance/mrdocs',
+      github: 'cppalliance/mrdocs'
+  }
+- {
+      name: 'Antora C++ Reference Extension',
+      url: 'https://github.com/alandefreitas/antora-cpp-reference-extension',
+      github: 'boostorg/antora-cpp-reference-extension'
+  }
+- {
+      name: 'Antora C++ Tagfiles Extension',
+      url: 'https://github.com/alandefreitas/antora-cpp-tagfiles-extension',
+      github: 'boostorg/antora-cpp-tagfiles-extension'
+  }
+- {
+      name: 'Antora Playbook Macros Extension',
+      url: 'https://github.com/alandefreitas/antora-playbook-macros-extension',
+      github: 'boostorg/antora-playbook-macros-extension'
+  }
+- {
+      name: 'Asciidoctor Boost Links',
+      url: 'https://github.com/alandefreitas/asciidoctor-boost-links',
+      github: 'boostorg/asciidoctor-boost-links'
+  }
+- {
+      name: 'C++ Actions',
+      url: 'https://github.com/alandefreitas/cpp-actions',
+      github: 'boostorg/cpp-actions'
+  }
+- {
       name: 'Matplot++',
       url: 'https://github.com/alandefreitas/matplotplusplus',
       github: 'alandefreitas/matplotplusplus'

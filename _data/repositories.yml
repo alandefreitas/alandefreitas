@@ -11,23 +11,23 @@ index:
   }
 - {
       name: 'Antora C++ Reference Extension',
-      url: 'https://github.com/alandefreitas/antora-cpp-reference-extension',
-      github: 'alandefreitas/antora-cpp-reference-extension'
+      url: 'https://github.com/cppalliance/antora-cpp-reference-extension',
+      github: 'cppalliance/antora-cpp-reference-extension'
   }
 - {
       name: 'Antora C++ Tagfiles Extension',
-      url: 'https://github.com/alandefreitas/antora-cpp-tagfiles-extension',
-      github: 'alandefreitas/antora-cpp-tagfiles-extension'
+      url: 'https://github.com/cppalliance/antora-cpp-tagfiles-extension',
+      github: 'cppalliance/antora-cpp-tagfiles-extension'
   }
 - {
       name: 'Antora Playbook Macros Extension',
-      url: 'https://github.com/alandefreitas/antora-playbook-macros-extension',
-      github: 'alandefreitas/antora-playbook-macros-extension'
+      url: 'https://github.com/cppalliance/antora-playbook-macros-extension',
+      github: 'cppalliance/antora-playbook-macros-extension'
   }
 - {
       name: 'Asciidoctor Boost Links',
-      url: 'https://github.com/alandefreitas/asciidoctor-boost-links',
-      github: 'alandefreitas/asciidoctor-boost-links'
+      url: 'https://github.com/cppalliance/asciidoctor-boost-links',
+      github: 'cppalliance/asciidoctor-boost-links'
   }
 - {
       name: 'C++ Actions',

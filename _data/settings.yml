@@ -1,8 +1,8 @@
 menu:
+- {name: 'resume', url: '/cv'}
 - {name: 'repos', url: '/repositories'}
 - {name: 'papers', url: '/publications'}
 # - {name: 'courses', url: '/courses'}
-- {name: 'cv', url: '/cv'}
 # - {name: 'people', url: '/people'}
 - {name: 'contact', url: '/contact'}
 

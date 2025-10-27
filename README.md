@@ -8,4 +8,10 @@ Welcome to my profile.
 - ✈️ Past life: aircraft engine design at the [Rolls-Royce Control & Systems UTC](https://www.rolls-royce.com/about/our-research/research-and-university.aspx) and [Marie Curie researcher](https://marie-sklodowska-curie-actions.ec.europa.eu/) within the EU’s [Seventh Framework Programme](https://ec.europa.eu/research/fp7/index_en.cfm), where I introduced the [Aggregation Trees](https://www.sciencedirect.com/science/article/abs/pii/S0020025514011347) method. I’ve published 50+ papers, mentored grad students, and taught C++ from intro classes to doctoral seminars.
 - 🎶 Side quests include AI-supported, multi-objective approaches to music composition (part of my Ph.D. thesis), plus cooking experiments 👨‍🍳, guitar jams 🎸, and hanging out with the dog 🦮.
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<br/>
+<br/>
+<br/>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%23f6f8fa&borderColor=%23d0d7de&textColor=%231f2328&qColor=%230969da&aColor=%231a7f37&codeColor=%230969da" alt="Jokes Card" width="420" />
+</p>

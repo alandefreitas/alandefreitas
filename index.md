@@ -21,5 +21,5 @@ title: "Home"
 <br/>
 
 <div style="text-align:center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%23f6f8fa&borderColor=%23d0d7de&textColor=%231f2328&qColor=%230969da&aColor=%231a7f37&codeColor=%230969da" alt="Jokes Card" width="520" />
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&borderColor=%23d0d7de&textColor=%23111111&qColor=%23333333&aColor=%23666666&codeColor=%23444444" alt="Jokes Card" width="520" />
 </div>

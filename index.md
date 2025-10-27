@@ -8,23 +8,16 @@ title: "Home"
 <br/>
 <br/>
 
-💻 I've been developing open-source libraries and tools for the C++ ecosystem, particularly focused on asynchronous programming and networking. This is my [GitHub Profile](https://github.com/alandefreitas). Feel free to fork projects, raise issues and submit PRs.
+🛠️ I'm one of the earliest members of [The C++ Alliance](https://cppalliance.org/) and I love building tools that make everyday C++ work smoother. I led the project team for [MrDocs](https://www.mrdocs.com), helped bring [Boost.URL](https://github.com/boostorg/url) into the Boost collection, and created the widely used [cpp-actions](https://github.com/alandefreitas/cpp-actions) GitHub workflow suite. I'm also the author of [Matplot++](https://github.com/alandefreitas/matplotplusplus), a plotting library that keeps powering scientific computing teams around the world. Curious about the rest of my projects? My [GitHub profile](https://github.com/alandefreitas) is open for forks, issues, and PRs.
 
-🔭 My most well-known libraries are probably [Matplot++](https://github.com/alandefreitas/matplotplusplus)
-and [Boost.URL](https://github.com/boostorg/url). I've been also maintaining other Boost libraries, such as [Boost.StaticString](https://github.com/boostorg/static_string).
+🧠 My research covers multi-objective optimization, data structures for Pareto fronts, and symbolic evolutionary algorithms—skills that now support modern Machine Learning (ML) and Artificial Intelligence (AI) projects. I hold a Ph.D. in Electrical Engineering focused on Computational Intelligence (also an early pillar of ML and AI) plus M.S. and B.S. degrees in Computer Science.
 
-👨‍🔬 I'm a Ph.D. in Electrical Engineering, in the field of Computational Intelligence. I also have an M.S. and
-B.S. in Computer Science. I specialized
-in [evolutionary computation](https://en.wikipedia.org/wiki/Evolutionary_computation) 🦎
-and [computational intelligence](https://en.wikipedia.org/wiki/Computational_intelligence) 🧠 in general.
+✈️ Before the Alliance, I worked on aircraft engine design at the [Rolls-Royce Control & Systems UTC](https://www.rolls-royce.com/about/our-research/research-and-university.aspx), and I was a [Marie Curie researcher](https://marie-sklodowska-curie-actions.ec.europa.eu/) within the European Union's [Seventh Framework Programme](https://ec.europa.eu/research/fp7/index_en.cfm), where I introduced the [Aggregation Trees](https://www.sciencedirect.com/science/article/abs/pii/S0020025514011347) method that still informs modern engineering practice. As a former university professor with more than 50 peer-reviewed publications, I've guided graduate research groups, taught C++ from intro to doctoral programs, and champion reproducible science in every project.
 
-👨‍💻 I currently work as a Staff Engineer for [The C++ Alliance](https://cppalliance.org/). Previously I was a professor at the [University of Ouro Preto](https://dri.ufop.br/index.php/en) 🧑‍🎓, a researcher at the [Rolls-Royce Control & Systems University Technology Centre](https://www.rolls-royce.com/about/our-research/research-and-university.aspx) ✈️ and a [Marie Curie researcher](https://en.wikipedia.org/wiki/Marie_Sk%C5%82odowska-Curie_Actions) 🧪 within the [Seventh Framework Program](https://ec.europa.eu/commission/presscorner/detail/de/MEMO_16_146) of the [European Commission](https://ec.europa.eu/info/index_en) 🇪🇺, when I developed the method of [Aggregation Trees](https://www.sciencedirect.com/science/article/abs/pii/S0020025514011347) 🌲 for the design of aircraft engines. I have also taught several introductory and advanced programming 💻 courses in C++ at undergraduate and graduate programs, and science methods 🧑‍🔬 at graduate programs.
-
-🤸 When not programming I enjoy cooking 👨‍🍳, playing the guitar 🎸, and spending time with the dog 🦮.
+🎶 When I'm not coding you'll usually find me exploring AI-supported, multi-objective techniques for music composition—a line of work that also shaped my Ph.D. thesis—or relaxing in the kitchen 👨‍🍳, playing the guitar 🎸, and chasing after the dog 🦮.
 
 <br/>
 <br/>
 <br/>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-

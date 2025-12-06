@@ -9,10 +9,10 @@ Tools and systems used across the C++ ecosystem.
 
 - **C++ Alliance (Staff Engineer)**  
   - **[MrDocs](https://www.mrdocs.com)** - responsible for major subsystems across the project and for coordinating contributors, defining technical direction, and managing the overall workflow. This includes Clang/LLVM integration, AST analysis pipelines, and tooling architecture.  
-  - **[Boost.URL](https://github.com/boostorg/url)** - author of the library introduced into the Boost collection  
+  - **[Boost.URL](https://github.com/boostorg/url)** - co-author of the library introduced into the Boost collection  
   - **[cpp-actions](https://github.com/alandefreitas/cpp-actions)** - GitHub Actions suite for C++ CI automation
 
-- **Open-source projects**  
+- **Independent open-source projects**  
   Outside the Alliance, I maintain several independent projects in parsing, static analysis, build systems, and systems programming.  
   The most widely recognized is **[Matplot++](https://github.com/alandefreitas/matplotplusplus)**, a plotting and scientific-computing library for C++.
 

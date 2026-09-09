@@ -1,7 +1,0 @@
----
-layout: contact
-title: "Contact"
----
-
-
-

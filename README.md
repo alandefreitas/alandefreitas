@@ -12,7 +12,7 @@ I designed the architecture of [MrDocs](https://www.mrdocs.com/), our open-sourc
 
 ## 🎓 Academia and industry
 
-Before the Alliance, I spent a decade in academia and industry:
+Before the Alliance:
 
 - a [Marie Curie fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/)
 - aircraft-engine design at the [Rolls-Royce Technology Centre](https://www.rolls-royce.com/about/our-research/research-and-university.aspx) in the UK

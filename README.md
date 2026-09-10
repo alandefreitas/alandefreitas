@@ -1,30 +1,26 @@
-# Hi, I'm Alan 👋  
-**Staff Engineer at the C++ Alliance since its inception.**  
-I work on high-leverage C++ developer tooling at the compiler boundary – LLVM/Clang front ends, AST analysis, and infrastructure that makes C++ easier to build, document, and maintain.  
+# Hi, I'm Alan 👋
 
----
+Staff Engineer and one of the earliest members of [The C++ Alliance](https://cppalliance.org/), a nonprofit that funds work on the [Boost libraries](https://www.boost.org/), C++ tooling and the ISO C++ standard.
 
-## 🏗️ Core Engineering Work  
-Tools and systems used across the C++ ecosystem.
+## 🏗️ Engineering
 
-- **C++ Alliance (Staff Engineer)**
-  - **[MrDocs](https://www.mrdocs.com)** – responsible for major subsystems across the project and for coordinating contributors, aligning technical direction, and managing the overall workflow. This includes Clang/LLVM integration, AST analysis pipelines, and tooling architecture. I also help onboard new contributors and guide them through the relevant parts of the Clang front end.
-  - **[cpp-actions](https://github.com/alandefreitas/cpp-actions)** – organization-wide CI automation for C++. I maintain the architecture, coordinate contributions, and keep workflows consistent across teams, improving reliability and reducing friction for all Alliance projects.
+I designed the architecture of [MrDocs](https://www.mrdocs.com/), our open-source documentation generator for modern C++, built directly on the [Clang](https://clang.llvm.org/) and [LLVM](https://llvm.org/) compiler front end and now being adopted across the Boost libraries. I set its technical direction, keeping its brilliant and independent contributors converging on it and up to speed on the Clang internals. My other projects:
 
-- **Open-source projects**  
-  These projects involve guiding contributors, supporting users, shaping long-term technical direction, and coordinating changes across ecosystems. Notable projects include:
-  - **[Matplot++](https://github.com/alandefreitas/matplotplusplus)** – a widely adopted C++ plotting and scientific-computing library with thousands of GitHub stars. I maintain long-term direction and support an active community of contributors and users.
-  - **[Boost.URL](https://github.com/boostorg/url)** – co-author of the library introduced into the Boost collection; collaborated with maintainers across Boost to define interfaces, testing strategy, cross-library integration, and release readiness  
+- [cpp-actions](https://alandefreitas.github.io/cpp-actions/), the CI automation used by Boost libraries and the Alliance's projects, which I created and maintain
+- [Matplot++](https://alandefreitas.github.io/matplotplusplus/), one of the most widely used C++ plotting libraries
+- [Boost.URL](https://www.boost.org/libs/url), which I co-authored, took through Boost's peer review, and have maintained in every Boost release since 1.81, one of [twenty Boost libraries](https://www.boost.org/users/alan-de-freitas-tqz0/) I have contributed to
 
----
+## 🎓 Academia and industry
 
-## 🧠 Research and Academic Background  
-Optimization methods applied to Artificial Intelligence and Machine Learning.
+Before the Alliance, I spent a decade in academia and industry:
 
-- Ph.D. specializing in **many-objective optimization** and its applications to Artificial Intelligence and Machine Learning  
-- Author of **50+ high-impact peer-reviewed publications**, including:  
-  - **Aggregation Trees** (Elsevier *Information Sciences*)  
-  - **Data structures for Pareto fronts** (*Swarm and Evolutionary Computation*)  
-- Former **professor**, teaching C++, algorithms, Artificial Intelligence, Machine Learning, and optimization from undergraduate through doctoral levels.  
-  Supervised Ph.D. students, mentored research teams, and developed methods for explaining complex technical topics clearly and systematically.
-- Earlier engineering work at **Rolls-Royce Control and Systems UTC**, applying optimization methods to aircraft engine design workflows, and experience as an **EU Marie Curie researcher** delivering optimization techniques for production engineering
+- a [Marie Curie fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/)
+- aircraft-engine design at the [Rolls-Royce Technology Centre](https://www.rolls-royce.com/about/our-research/research-and-university.aspx) in the UK
+- a visiting professorship at [McGill](https://www.mcgill.ca/) and the [Université de Montréal](https://www.umontreal.ca/)
+- ten years as a professor at the [Federal University of Ouro Preto](https://ufop.br/), teaching advanced C++ and research methods up to the doctoral level
+
+My PhD in [computational intelligence](https://en.wikipedia.org/wiki/Computational_intelligence), the [evolutionary](https://en.wikipedia.org/wiki/Evolutionary_computation) and [neural](https://en.wikipedia.org/wiki/Artificial_neural_network) side of [AI](https://en.wikipedia.org/wiki/Artificial_intelligence), and my work in [mathematical optimization](https://en.wikipedia.org/wiki/Mathematical_optimization) led to methods I have applied to music composition, aircraft-engine and electric-motor design, energy storage for smart cities, and logistics. Rewriting one of those algorithms in [C++](https://en.wikipedia.org/wiki/C%2B%2B) turned a coffee break into half a second, moved my research to C++, and led to Matplot++, so that scientific computing could stay in C++, where I now sit on the [ISO committee (WG21)](https://isocpp.org/std/the-committee). I have more than [50 peer-reviewed publications](https://alandefreitas.github.io/publications), two of them in the journals ranked first in the world in [computer science](https://www.sciencedirect.com/science/article/abs/pii/S0020025514011347) and in [mathematics](https://www.sciencedirect.com/science/article/abs/pii/S2210650221000766), and a [best-paper award](https://doi.org/10.1145/3321707.3321872) at [GECCO](https://en.wikipedia.org/wiki/Genetic_and_Evolutionary_Computation_Conference), the world's largest conference on evolutionary computation. I also coordinated [Aluno Integrado](https://alunointegrado.dcx.ufpb.br/curso.html), a program that taught programming to more than 10,000 students from low-income regions of Brazil.
+
+I grew up in the countryside of [Minas Gerais](https://en.wikipedia.org/wiki/Minas_Gerais), Brazil, and have lived all around the world since. Off the clock, I cook, play guitar, and spend time with my dog.
+
+🔭 Working on [MrDocs](https://www.mrdocs.com/), [Boost.URL](https://www.boost.org/libs/url) and [cpp-actions](https://alandefreitas.github.io/cpp-actions/) · 💬 Ask me about C++ library and API design, documentation tooling, the [Clang AST](https://clang.llvm.org/docs/IntroductionToTheClangAST.html), or [optimization](https://en.wikipedia.org/wiki/Mathematical_optimization) · 🌐 [alandefreitas.github.io](https://alandefreitas.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/alan-de-freitas-8896b22ab/)
